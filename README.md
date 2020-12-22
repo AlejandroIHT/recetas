@@ -1,4 +1,4 @@
-# Recetas with Recat
+# Recetas with React
 
 Recetas is create with React.js (https://es.reactjs.org/), React Router Dom (https://reactrouter.com/web/guides/quick-start) and React Helmet (https://www.npmjs.com/package/react-helmet).
 
